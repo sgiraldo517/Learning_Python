@@ -41,7 +41,7 @@ Proceso de reunir informacion o datos de diversas fuentes con el objetivo de alm
    2. Hallazgo de drivers que aporten a la predictibilidad del comportamiento de la variable objetivo *(feature importance)*
    3. Interpretacion del modelo
 5. Evaluacion: 
-   1. Evaluacion del modelo mediante supuestos o validacion cruzada *(Teniendo en cuenta si es parametrico o no parametrico)*
+   1. Evaluacion del modelo mediante supuestos o [validacion cruzada](https://www.youtube.com/watch?v=fSytzGwwBVw&t=4s) *(Teniendo en cuenta si es parametrico o no parametrico)*
    2. Tuneo de parametros *(para Machine Learning)*
    3. Estabilidad del modelo
 6. Despliegue: 
