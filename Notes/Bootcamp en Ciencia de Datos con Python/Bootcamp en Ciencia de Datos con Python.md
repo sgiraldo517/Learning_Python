@@ -17,7 +17,7 @@ Es un campo interdisciplinario acerca de procesos y sistemas para extraer **cono
 - Matemáticas
 - Conocimiento del caso (Entendimiento del negocio)
   
-![Diagrama de Venn de la Ciencia de Datos](assets/Img1.png)
+![Diagrama de Venn de la Ciencia de Datos](Courses/Learning%20Python/Notes/Bootcamp%20en%20Ciencia%20de%20Datos%20con%20Python/assets/Img1.png)
 
 ## Recoleccion de Datos
 Proceso de reunir informacion o datos de diversas fuentes con el objetivo de almacenarlos, organizarlos y utilizarlos para diversos fines (analisis, toma de decisiones, investigacion, etc)
