@@ -1,0 +1,60 @@
+# Ignore Python bytecode and other Python-generated files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore environment files
+.env
+*.env
+*.venv
+venv/
+ENV/
+
+# Ignore Jupyter Notebook output files
+*.ipynb~ 
+
+# Ignore logs
+*.log
+
+# Ignore folders
+0 - Archive/
+
+# Ignore IDE/editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ignore data or large files 
+data/
+*.csv
+*.tsv
+*.json
+*.parquet
+
+# Ignore compressed files
+*.zip
+*.tar.gz
+*.tar.bz2
+
+#JupyterNotebooks
+.ipynb_checkpoints
+
+#PyCharm
+.idea
+
+#VisualStudioCode
+.vscode
+
+#Obsidian
+.obsidian/*
+!.obsidian/app.json
+!.obsidian/appearance.json
+!.obsidian/config
+!.obsidian/community-plugins.json
+!.obsidian/core-plugins.json
+!.obsidian/graph.json
+!.obsidian/hotkeys.json
